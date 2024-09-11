@@ -1,0 +1,12 @@
+.listUsers{
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  gap: 115px;
+
+}
+.centerBlock{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
